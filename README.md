@@ -3,6 +3,7 @@
 ### What you need
 * Node.js and npm: https://nodejs.org/en/
 * Angular 2 API: https://angular.io/docs/ts/latest/api/
+* Typescript handbook: http://www.typescriptlang.org/Handbook
 
 
 ### Installation
